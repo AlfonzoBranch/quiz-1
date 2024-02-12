@@ -5,7 +5,7 @@
 6.Linux cd- changes to home
 7.Formatted listing with hidden files 
 8.Linux command pwd- shows the current directory
-9.The three differnt areas in a git project are 
+9.The three differnt areas in a git project are the working directory, staging area, and the git directory(repository)
 10.Version control system VSC is a system that recoeds changes to a file
 11.1. Each client has a copy(full backup),2.Most recent clone can be used to restore fies,3.Each client has history,4.
 12.(VCS)Local VCS,(CVCS)Cenrtrealized VSC,(DVCS)Distributed VCS
