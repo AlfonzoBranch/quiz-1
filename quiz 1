@@ -1,0 +1,23 @@
+2. .md stands for 
+3. Yes
+4.No
+5.The purpose of a .git folder is to generate parts of a project
+6.Linux cd- changes to home
+7.Formatted listing with hidden files 
+8.Linux command pwd- shows the current directory
+9.The three differnt areas in a git project are 
+10.Version control system VSC is a system that recoeds changes to a file
+11.1. Each client has a copy(full backup),2.Most recent clone can be used to restore fies,3.Each client has history,4.
+12.(VCS)Local VCS,(CVCS)Cenrtrealized VSC,(DVCS)Distributed VCS
+13.Git is where files are created and stored whereas github is where files are created and shared and can be stored online.
+14.git status= Check the status of a project 
+15.git push --all= Push all branches of the project to a remote repository 
+16.git pull=Pull the latest project revision from the remote to the local repository 
+17.Markdown is a way to style text on the web. For example the formatting of words bold or italics. 
+18.Bold face Markdown= ** ** or __   __ , you can combine them 
+19.Italic in markdown= _  _ 
+20. git init
+21. The . means to skip those folders/files and go to the next
+22.Followed steps
+23.Relative file path is  
+24.git help -a 
